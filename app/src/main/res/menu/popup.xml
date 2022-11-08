@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/recenttoold"
+        android:title="Recent to Oldest"
+        android:icon="@drawable/sort_selector"/>
+    <item
+        android:id="@+id/oldtorecent"
+        android:title="Oldest to Recent"
+        android:icon="@drawable/sort2_selector"/>
+    <item
+        android:id="@+id/atoz"
+        android:title="A->Z"
+        android:icon="@drawable/sort_selector"/>
+    <item
+        android:id="@+id/ztoa"
+        android:title="Z->A"
+        android:icon="@drawable/sort2_selector"/>
+</menu>
